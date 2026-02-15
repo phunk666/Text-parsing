@@ -28,9 +28,9 @@ def get_news_from_section(section_url, filename):
 
 # Разделы для парсинга
 sections = {
-    "politics.txt": "https://news.mail.ru",
-    "economics.txt": "https://news.mail.ru",
-    "society.txt": "https://news.mail.ru"
+    "politics.txt": "https://news.mail.ru/politics/69820225/",
+    "economics.txt": "https://finance.mail.ru/article/v-metallah-ischut-demping-69198515/",
+    "society.txt": "https://news.mail.ru/society/69820734/"
 }
 
 for file, url in sections.items():

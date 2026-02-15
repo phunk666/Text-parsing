@@ -13,7 +13,7 @@ sections = {
 }
 
 def parse_section(name, url):
-    print(f"Поиск новостей в разделе: {name}...")
+    print(f"Ищу новости: {name}...")
     try:
         response = requests.get(url, headers=headers)
         soup = BeautifulSoup(response.text, 'html.parser')

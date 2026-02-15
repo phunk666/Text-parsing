@@ -1,6 +1,6 @@
-Команды
+**Что вводить**
 ============
-**pip install requests beautifulsoup4**
+pip install requests beautifulsoup4
 ============
-**python parser.py**
+python parser.py
 ============

@@ -1,6 +1,5 @@
 **Что вводить**
 ============
-pip install requests beautifulsoup4
-
-python parser.py
+pip install requests
+pip install beautifulsoup4
 

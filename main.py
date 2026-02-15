@@ -68,4 +68,4 @@ def parse_section(name, url):
 for name, url in sections.items():
     parse_section(name, url)
 
-print("Процесс завершен. Проверь файлы!")
+print("Дело сделанно, посмотри файлы!")
